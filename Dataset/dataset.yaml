@@ -1,0 +1,9 @@
+path: C:/Users/apps/Downloads/Week4/Dataset
+train: ./images/train
+val:   ./images/val
+test:  ./images/test
+
+nc: 2
+names:
+  0: normal_drip
+  1: anomaly_drip
